@@ -1,5 +1,5 @@
 
-const {camelToSnake} = require('p-transfom');
+const {camelToSnake} = require('sorcery');
  
 // Test data
 const testData = {
