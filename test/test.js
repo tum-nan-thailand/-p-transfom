@@ -1,5 +1,5 @@
 
-const {camelToSnake} = require('sorcery');
+const {camelToSnake} = require('sorsery');
  
 // Test data
 const testData = {
